@@ -616,6 +616,618 @@
 			]
 		},
 		{
+			"Name": "against_the_storm",
+			"Notes": "",
+			"Keys": [
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"GRAV"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_1"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_2"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_3"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_4"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_5"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"PRSC"
+					]
+				},
+				{
+					"Name": "Caps Word",
+					"Behavior": "\u0026caps_word",
+					"Notes": "",
+					"Args": []
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_6"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_7"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_8"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_9"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"NUMBER_0"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"K_APP"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"TAB"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"Q"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"W"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"E"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"R"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"T"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026mo",
+					"Notes": "",
+					"Args": [
+						"nav"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"PGUP"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"Y"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"U"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"I"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"O"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"P"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"BSLH"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"ESC"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"A"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"S"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"D"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"F"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"G"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"H"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"J"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"K"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"L"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"SEMICOLON"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"BKSP"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026mo",
+					"Notes": "",
+					"Args": [
+						"symb"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"Z"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"X"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"C"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"V"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"B"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kt",
+					"Notes": "",
+					"Args": [
+						"LGUI"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"PGDN"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"N"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"M"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"CMMA"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"DOT"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"FSLH"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026mo",
+					"Notes": "",
+					"Args": [
+						"symb"
+					]
+				},
+				{
+					"Name": "atsl",
+					"Behavior": "\u0026mo",
+					"Notes": "",
+					"Args": [
+						"against_the_storm_left"
+					]
+				},
+				{
+					"Name": "LCTL",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LCTL"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LALT"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LARW"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"UARW"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"DARW"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"RARW"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"RALT"
+					]
+				},
+				{
+					"Name": "main",
+					"Behavior": "\u0026to",
+					"Notes": "",
+					"Args": [
+						"main"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026to",
+					"Notes": "",
+					"Args": [
+						"nmpad"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kt",
+					"Notes": "",
+					"Args": [
+						"DEL"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kt",
+					"Notes": "",
+					"Args": [
+						"LCTL"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"BKSP"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"INS"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LSFT"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"SPC"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kt",
+					"Notes": "",
+					"Args": [
+						"LALT"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026mo",
+					"Notes": "",
+					"Args": [
+						"fn"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"SPC"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"LGUI"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kt",
+					"Notes": "",
+					"Args": [
+						"RET"
+					]
+				},
+				{
+					"Name": "",
+					"Behavior": "\u0026kp",
+					"Notes": "",
+					"Args": [
+						"RET"
+					]
+				}
+			]
+		},
+		{
 			"Name": "against_the_storm_left",
 			"Notes": "",
 			"Keys": [
@@ -3192,618 +3804,6 @@
 					"Behavior": "\u0026none",
 					"Notes": "",
 					"Args": []
-				}
-			]
-		},
-		{
-			"Name": "against_the_storm",
-			"Notes": "",
-			"Keys": [
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"GRAV"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_1"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_2"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_3"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_4"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_5"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"PRSC"
-					]
-				},
-				{
-					"Name": "Caps Word",
-					"Behavior": "\u0026caps_word",
-					"Notes": "",
-					"Args": []
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_6"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_7"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_8"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_9"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"NUMBER_0"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"K_APP"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"TAB"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"Q"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"W"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"E"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"R"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"T"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"nav"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"PGUP"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"Y"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"U"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"I"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"O"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"P"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"BSLH"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"ESC"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"A"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"S"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"D"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"F"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"G"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"H"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"J"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"K"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"L"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"SEMICOLON"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"BKSP"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"symb"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"Z"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"X"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"C"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"V"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"B"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kt",
-					"Notes": "",
-					"Args": [
-						"LGUI"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"PGDN"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"N"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"M"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"CMMA"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"DOT"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"FSLH"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"symb"
-					]
-				},
-				{
-					"Name": "atsl",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"against_the_storm_left"
-					]
-				},
-				{
-					"Name": "LCTL",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LCTL"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LALT"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LARW"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"UARW"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"DARW"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"RARW"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"RALT"
-					]
-				},
-				{
-					"Name": "main",
-					"Behavior": "\u0026to",
-					"Notes": "",
-					"Args": [
-						"main"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026to",
-					"Notes": "",
-					"Args": [
-						"nmpad"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kt",
-					"Notes": "",
-					"Args": [
-						"DEL"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kt",
-					"Notes": "",
-					"Args": [
-						"LCTL"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"BKSP"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"INS"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LSFT"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"SPC"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kt",
-					"Notes": "",
-					"Args": [
-						"LALT"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026mo",
-					"Notes": "",
-					"Args": [
-						"fn"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"SPC"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"LGUI"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kt",
-					"Notes": "",
-					"Args": [
-						"RET"
-					]
-				},
-				{
-					"Name": "",
-					"Behavior": "\u0026kp",
-					"Notes": "",
-					"Args": [
-						"RET"
-					]
 				}
 			]
 		}
